@@ -13,5 +13,11 @@ def primera_letra_repetida(texto):
 
 
 
+lista = ["a","b","c"]
+_mitexto = "mitesto"[0]
+print(type(lista))
+print(_mitexto.upper())
+'''
 print(primera_letra_repetida("saltar"))  # a
 print(primera_letra_repetida("me gusta"))   # None
+'''
