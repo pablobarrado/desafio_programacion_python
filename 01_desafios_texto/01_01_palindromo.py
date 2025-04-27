@@ -19,9 +19,6 @@ def es_palindromo2(texto):
     return True    
         
 
-'''
 print(es_palindromo("Anita lava la tina"))  # True
 print(es_palindromo("palindromo"))  # False
-'''
-
 print(es_palindromo2("Anita lava la tina"))
