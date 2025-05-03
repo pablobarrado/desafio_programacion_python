@@ -28,3 +28,19 @@ def triangulo_pascal(cantidad_filas):
     return triangulo
 
 print(triangulo_pascal(4)) # [[1], [1, 1], [1, 2, 1], [1, 3, 3, 1]]
+#Resumen pruebas
+a = [12,3,4,5] # Listas
+b = (1,2,3,4) # dupla
+c = {'b':222,'c':333} # dic 
+d = {1,2,3,4} # Conjunto - set 
+for i in a:
+    print(i)
+for j in b:
+    print(j)
+for k in c:
+    print(c[k])    
+
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
